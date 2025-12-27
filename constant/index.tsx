@@ -214,7 +214,7 @@ export const workSlides: workSlidesTypes = {
         {
           title: "mdyaf Company",
           path: "/projects/modren.png",
-          url: "http://mdyaf.sa/",
+          url: "https://mudyaf.sa/",
         },
       ],
     },
